@@ -16,6 +16,10 @@ The authors and judges were not aligned/agree/disagree with the tweets and perso
 - Each line (if not a comment) has the Urdu text enclosed in quotes, and the class / final label assigned to that tweet. i.e. P, N, or O i.e. Positive, Negative or Objective respectively. A comma (,) separates the quoted Urdu text and its class.
 
 
+### Research uses of the dataset
+This is a partial and poorly maintained list. If I've left your work out, don't take it personally, and feel free to send me a pointer and/or description.
+- M. Y. Khan, S. M. Emaduddin and K. N. Junejo, "Harnessing English Sentiment Lexicons for Polarity Detection in Urdu Tweets: A Baseline Approach," 2017 IEEE 11th International Conference on Semantic Computing (ICSC), San Diego, California, USA, 2017, pp. 242-249. doi:10.1109/ICSC.2017.68
+
 ### Citing and Referencing 
 The details on distribution and results of data set can be sought at follows: 
 ```
