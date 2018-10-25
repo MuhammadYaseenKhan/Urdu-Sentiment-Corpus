@@ -1,4 +1,4 @@
-# Labelled Urdu Tweets for Sentiment Analysis
+# Labelled Dataset for Urdu Sentiment Analysis
 
 ### About the dataset
 The dataset contains 999 tweets in Urdu language, collected between 14 August 2014 – 17 December 2014. During the mentioned period, the political parties in Pakistan, in particular, Pakistan Tehreek-e-Insaf (PTI) and Pakistan Awami Tehreek (PAT) were protesting in Islamabad against the government. The tweets were publicly available and randomly selected. So it was used on “as is” basis. 
