@@ -40,7 +40,7 @@ And, for the ![](https://latex.codecogs.com/gif.latex?%5Ctext%7B%5CLaTeX%7D) use
   year={2017},
   organization={IEEE}
 }
-```
+
 @inproceedings{khan2020usc,
   title={Urdu Sentiment Corpus (v1.0): Linguistic Exploration and Visualization of Labeled Datasetfor Urdu Sentiment Analysis.},
   author={Khan, Muhammad Yaseen and Nizami, Muhammad Suffian},
