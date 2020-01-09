@@ -16,35 +16,36 @@ The authors and judges were not aligned/agree/disagree with the tweets and perso
 - Each line (if not a comment) has the Urdu text enclosed in quotes, and the class / final label assigned to that tweet. i.e. P, N, or O i.e. Positive, Negative or Objective respectively. A comma (,) separates the quoted Urdu text and its class.
 
 
-### Research uses of the dataset
-This is a partial and poorly maintained list. If I've left your work out, don't take it personally, and feel free to send me a pointer and/or description.
-- M. Y. Khan, S. M. Emaduddin and K. N. Junejo, "Harnessing English Sentiment Lexicons for Polarity Detection in Urdu Tweets: A Baseline Approach," 2017 IEEE 11th International Conference on Semantic Computing (ICSC), San Diego, California, USA, 2017, pp. 242-249. doi:10.1109/ICSC.2017.68
-
 ### Citing and Referencing 
 If you are using this dataset in your research, please cite the following associated work done in the preparation of this dataset.
 ```
-Khan MY, Emaduddin SM, Junejo KN. 
-Harnessing English Sentiment Lexicons for Polarity Detection in Urdu Tweets: A Baseline Approach. 
-In Semantic Computing (ICSC), 2017 IEEE 11th International Conference on 2017 Jan 30 (pp. 242-249). IEEE.
+Khan, Muhammad Yaseen, Shah Muhammad Emaduddin, and Khurum Nazir Junejo. 
+"Harnessing English Sentiment Lexicons for Polarity Detection in Urdu Tweets: A Baseline Approach." 
+In 2017 IEEE 11th International Conference on Semantic Computing (ICSC), pp. 242-249. IEEE, 2017.
 ```
 
 ```
-Khan, Muhammad Yaseen, Shah Muhammad Emaduddin, and Khurum Nazir Junejo. "Harnessing English Sentiment Lexicons for Polarity Detection in Urdu Tweets: A Baseline Approach." In 2017 IEEE 11th International Conference on Semantic Computing (ICSC), pp. 242-249. IEEE, 2017.
-```
-
-```
-Khan, Muhammad Yaseen, and Nizami, Muhammad Suffian. "Urdu Sentiment Corpus (v1.0): LinguisticExploration and Visualization of Labeled Datasetfor Urdu Sentiment Analysis." In 2020 IEEE 2nd International Conference On Information Science & Communication Technology (ICISCT). IEEE, 2020.
+Khan, Muhammad Yaseen, and Nizami, Muhammad Suffian. 
+"Urdu Sentiment Corpus (v1.0): Linguistic Exploration and Visualization of Labeled Datasetfor Urdu Sentiment Analysis." 
+In 2020 IEEE 2nd  International Conference On Information Science & Communication Technology (ICISCT). IEEE, 2020.
 ```
 
 And, for the ![](https://latex.codecogs.com/gif.latex?%5Ctext%7B%5CLaTeX%7D) users BibTeX entry is:
 ```
 @inproceedings{khan2017harnessing,
-  title={Urdu Sentiment Corpus (v1.0): LinguisticExploration and Visualization of Labeled Datasetfor Urdu Sentiment Analysis.},
+  title={Harnessing English Sentiment Lexicons for Polarity Detection in Urdu Tweets: A Baseline Approach},
+  author={Khan, Muhammad Yaseen and Emaduddin, Shah Muhammad and Junejo, Khurum Nazir},
+  booktitle={2017 IEEE 11th International Conference on Semantic Computing (ICSC)},
+  pages={242--249},
+  year={2017},
+  organization={IEEE}
+}
+```
+@inproceedings{khan2020usc,
+  title={Urdu Sentiment Corpus (v1.0): Linguistic Exploration and Visualization of Labeled Datasetfor Urdu Sentiment Analysis.},
   author={Khan, Muhammad Yaseen and Nizami, Muhammad Suffian},
   booktitle={2020 IEEE 2nd International Conference On Information Science & Communication Technology (ICISCT)},
   pages={},
   year={2020},
   organization={IEEE}
 }
-```
-
