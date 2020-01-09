@@ -1,4 +1,4 @@
-# Labelled Dataset for Urdu Sentiment Analysis
+# Urdu Senitment Corpus: A labeled dataset for Urdu sentiment analysis and sentiment classification
 
 ### About the dataset
 The dataset contains 999 tweets in Urdu language, collected between 14 August 2014 – 17 December 2014. During the mentioned period, the political parties in Pakistan, in particular, Pakistan Tehreek-e-Insaf (PTI) and Pakistan Awami Tehreek (PAT) were protesting in Islamabad against the government. The tweets were publicly available and randomly selected. So it was used on “as is” basis. 
@@ -21,38 +21,30 @@ This is a partial and poorly maintained list. If I've left your work out, don't 
 - M. Y. Khan, S. M. Emaduddin and K. N. Junejo, "Harnessing English Sentiment Lexicons for Polarity Detection in Urdu Tweets: A Baseline Approach," 2017 IEEE 11th International Conference on Semantic Computing (ICSC), San Diego, California, USA, 2017, pp. 242-249. doi:10.1109/ICSC.2017.68
 
 ### Citing and Referencing 
-The details on distribution and results of data set can be sought at follows: 
+If you are using this dataset in your research, please cite the following associated work done in the preparation of this dataset.
 ```
 Khan MY, Emaduddin SM, Junejo KN. 
 Harnessing English Sentiment Lexicons for Polarity Detection in Urdu Tweets: A Baseline Approach. 
 In Semantic Computing (ICSC), 2017 IEEE 11th International Conference on 2017 Jan 30 (pp. 242-249). IEEE.
 ```
 
+```
+Khan, Muhammad Yaseen, Shah Muhammad Emaduddin, and Khurum Nazir Junejo. "Harnessing English Sentiment Lexicons for Polarity Detection in Urdu Tweets: A Baseline Approach." In 2017 IEEE 11th International Conference on Semantic Computing (ICSC), pp. 242-249. IEEE, 2017.
+```
+
+```
+Khan, Muhammad Yaseen, and Nizami, Muhammad Suffian. "Urdu Sentiment Corpus (v1.0): LinguisticExploration and Visualization of Labeled Datasetfor Urdu Sentiment Analysis." In 2020 IEEE 2nd International Conference On Information Science & Communication Technology (ICISCT). IEEE, 2020.
+```
+
 And, for the ![](https://latex.codecogs.com/gif.latex?%5Ctext%7B%5CLaTeX%7D) users BibTeX entry is:
 ```
 @inproceedings{khan2017harnessing,
-  title={Harnessing English Sentiment Lexicons for Polarity Detection in Urdu Tweets: A Baseline Approach},
-  author={Khan, Muhammad Yaseen and Emaduddin, Shah Muhammad and Junejo, Khurum Nazir},
-  booktitle={Semantic Computing (ICSC), 2017 IEEE 11th International Conference on},
-  pages={242--249},
-  year={2017},
+  title={Urdu Sentiment Corpus (v1.0): LinguisticExploration and Visualization of Labeled Datasetfor Urdu Sentiment Analysis.},
+  author={Khan, Muhammad Yaseen and Nizami, Muhammad Suffian},
+  booktitle={2020 IEEE 2nd International Conference On Information Science & Communication Technology (ICISCT)},
+  pages={},
+  year={2020},
   organization={IEEE}
 }
 ```
 
-If you are using this data set, kindly refer the above paper or acknowledge the data set as follows:
-```
-Khan, Muhammad Yaseen; Emaduddin, Shah Muhammad and Junejo, Khurram Nazir. 2017. Data set of Urdu Tweets for Polarity Detection.
-Department of Computer Science, Mohammad Ali Jinnah University, Karachi, Pakistan. http://urduopinion.com/data set/labelled-urdu-tweet-corpus-yek.txt
-```
-Or, if you are using ![](https://latex.codecogs.com/gif.latex?%5Ctext%7B%5CLaTeX%7D) then BibTeX entry is following.
-```
-@misc{urdutweetcorpusyek,
-   title = {Urdu Tweet Corpus YEK},
-   author = {Khan, Muhammad Yaseen; Emaduddin, Shah Muhammad and Junejo, Khurram Nazir},
-   url = {http://urduopinion.com/data set/labelled-urdu-tweet-corpus-yek.txt},
-   note = {Department of Computer Science, Mohammad Ali Jinnah University, Karachi, Pakistan},
-   copyright = {Attribution-{NonCommercial}-{ShareAlike} 3.0 Unported ({CC} {BY}-{NC}-{SA} 3.0)},
-   year = {2017} 
-}
-```
