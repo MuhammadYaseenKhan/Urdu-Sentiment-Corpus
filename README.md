@@ -19,15 +19,15 @@ The authors and judges were not aligned/agree/disagree with the tweets and perso
 ### Citing and Referencing 
 If you are using this dataset in your research, please cite the following associated work done in the preparation of this dataset.
 ```
-Khan, Muhammad Yaseen, Shah Muhammad Emaduddin, and Khurum Nazir Junejo. 
+[Khan, Muhammad Yaseen, Shah Muhammad Emaduddin, and Khurum Nazir Junejo. 
 "Harnessing English Sentiment Lexicons for Polarity Detection in Urdu Tweets: A Baseline Approach." 
-In 2017 IEEE 11th International Conference on Semantic Computing (ICSC), pp. 242-249. IEEE, 2017.
+In 2017 IEEE 11th International Conference on Semantic Computing (ICSC), pp. 242-249. IEEE, 2017.](https://www.researchgate.net/publication/311693013_Harnessing_English_Sentiment_Lexicons_for_Polarity_Detection_in_Urdu_Tweets_A_Baseline_Approach)
 ```
 
 ```
-Khan, Muhammad Yaseen, and Nizami, Muhammad Suffian. 
+[Khan, Muhammad Yaseen, and Nizami, Muhammad Suffian. 
 "Urdu Sentiment Corpus (v1.0): Linguistic Exploration and Visualization of Labeled Datasetfor Urdu Sentiment Analysis." 
-In 2020 IEEE 2nd  International Conference On Information Science & Communication Technology (ICISCT). IEEE, 2020.
+In 2020 IEEE 2nd  International Conference On Information Science & Communication Technology (ICISCT). IEEE, 2020.](https://www.researchgate.net/publication/338396518_Urdu_Sentiment_Corpus_v10_Linguistic_Exploration_and_Visualization_of_Labeled_Dataset_for_Urdu_Sentiment_Analysis)
 ```
 
 And, for the ![](https://latex.codecogs.com/gif.latex?%5Ctext%7B%5CLaTeX%7D) users BibTeX entry is:
@@ -40,7 +40,9 @@ And, for the ![](https://latex.codecogs.com/gif.latex?%5Ctext%7B%5CLaTeX%7D) use
   year={2017},
   organization={IEEE}
 }
+```
 
+```
 @inproceedings{khan2020usc,
   title={Urdu Sentiment Corpus (v1.0): Linguistic Exploration and Visualization of Labeled Datasetfor Urdu Sentiment Analysis.},
   author={Khan, Muhammad Yaseen and Nizami, Muhammad Suffian},
