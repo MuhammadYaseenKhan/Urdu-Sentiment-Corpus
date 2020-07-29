@@ -37,7 +37,6 @@ And, for the ![](https://latex.codecogs.com/gif.latex?%5Ctext%7B%5CLaTeX%7D) use
 }
 ```
 
-
 ### Details of Urdu Sentiment Corpus - version 1
 [Khan, Muhammad Yaseen, and Nizami, Muhammad Suffian. 
 "Urdu Sentiment Corpus (v1.0): Linguistic Exploration and Visualization of Labeled Datasetfor Urdu Sentiment Analysis." 
