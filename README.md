@@ -6,11 +6,11 @@ If you are using this dataset in your research, please cite the following associ
 
 - [Khan, Muhammad Yaseen, and Nizami, Muhammad Suffian. 
 "Urdu Sentiment Corpus (v1.0): Linguistic Exploration and Visualization of Labeled Datasetfor Urdu Sentiment Analysis." 
-In 2020 IEEE 2nd  International Conference On Information Science & Communication Technology (ICISCT). IEEE, 2020.](https://www.researchgate.net/publication/341234859_Urdu_Sentiment_Corpus_v10_Linguistic_Exploration_and_Visualization_of_Labeled_Dataset_for_Urdu_Sentiment_Analysis)
+In 2020 IEEE 2nd  International Conference On Information Science & Communication Technology (ICISCT). IEEE, 2020.](https://ieeexplore.ieee.org/abstract/document/9080043/) Get get the preprint at researchgate.
 
 - [Khan, Muhammad Yaseen, Shah Muhammad Emaduddin, and Khurum Nazir Junejo. 
 "Harnessing English Sentiment Lexicons for Polarity Detection in Urdu Tweets: A Baseline Approach." 
-In 2017 IEEE 11th International Conference on Semantic Computing (ICSC), pp. 242-249. IEEE, 2017.](https://www.researchgate.net/publication/311693013_Harnessing_English_Sentiment_Lexicons_for_Polarity_Detection_in_Urdu_Tweets_A_Baseline_Approach)
+In 2017 IEEE 11th International Conference on Semantic Computing (ICSC), pp. 242-249. IEEE, 2017.](https://ieeexplore.ieee.org/document/7889534)  Get get the preprint at researchgate.
 
 
 And, for the ![](https://latex.codecogs.com/gif.latex?%5Ctext%7B%5CLaTeX%7D) users BibTeX entry is:
@@ -40,4 +40,4 @@ And, for the ![](https://latex.codecogs.com/gif.latex?%5Ctext%7B%5CLaTeX%7D) use
 ### Details of Urdu Sentiment Corpus - version 1
 [Khan, Muhammad Yaseen, and Nizami, Muhammad Suffian. 
 "Urdu Sentiment Corpus (v1.0): Linguistic Exploration and Visualization of Labeled Datasetfor Urdu Sentiment Analysis." 
-In 2020 IEEE 2nd  International Conference On Information Science & Communication Technology (ICISCT). IEEE, 2020.](https://www.researchgate.net/publication/341234859_Urdu_Sentiment_Corpus_v10_Linguistic_Exploration_and_Visualization_of_Labeled_Dataset_for_Urdu_Sentiment_Analysis)
+In 2020 IEEE 2nd  International Conference On Information Science & Communication Technology (ICISCT). IEEE, 2020.](https://ieeexplore.ieee.org/abstract/document/9080043/) Get get the preprint at researchgate.
